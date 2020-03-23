@@ -11,17 +11,17 @@
 #--                                                                            --
 #--------------------------------------------------------------------------------
 #--                                                                            --
-#-- File		: ex5.py                  	                              	   --
+#-- File		: exemplo_neuronio.py                  	                  	   --
 #-- Authors     : Luis Felipe de Deus                                          --
 #-- Professor   : Rodrigo da Silva Guerra                                      -- 
 #--                                                                            -- 
 #--------------------------------------------------------------------------------
 #--                                                                            --
-#-- Created     : 14 Mar 2020                                                  --
-#-- Update      : 14 Mar 2020                                                  --
+#-- Created     : 22 Mar 2020                                                  --
+#-- Update      : 22 Mar 2020                                                  --
 #--------------------------------------------------------------------------------
 #--                              Overview                                      --
-#-- A simple example from sigmoid fuction                                      --
+#-- A simple example from a neuronio                                           --
 #-- Code executed in python3                                                   --
 #--------------------------------------------------------------------------------
 #
