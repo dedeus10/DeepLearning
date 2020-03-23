@@ -11,7 +11,7 @@
 #--                                                                            --
 #--------------------------------------------------------------------------------
 #--                                                                            --
-#-- File		: exPerceptronParam.py                	                  	   --
+#-- File		: exPerceptronParamV2.py                                	   --
 #-- Authors     : Luis Felipe de Deus                                          --
 #-- Professor   : Rodrigo da Silva Guerra                                      -- 
 #--                                                                            -- 
