@@ -1,2 +1,2 @@
 # DeepLearning
-Repositório da disciplina de Deep Learning da Universidade Federal de Santa Maria
+Deep Learning  repository from Federal University of Santa Maria
